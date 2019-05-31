@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jenkins-cli">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jenkins-cli.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
